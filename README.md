@@ -22,7 +22,3 @@ This project enforces **explicit Chain-of-Thought reasoning** and **strict JSON 
 ## Tech Stack
 Python, PyTorch, Hugging Face, Unsloth, Llama-3, Financial Time-Series Analysis
 
-## Future Work
-- Self-consistency decoding
-- Multi-quarter reasoning
-- Factor-neutral backtesting

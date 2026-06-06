@@ -14,11 +14,6 @@ This project enforces **explicit Chain-of-Thought reasoning** and **strict JSON 
 3. Extract sentiment signals from earnings transcripts
 4. Validate signals using next-day equity returns (Information Coefficient)
 
-## Key Results
-- Reasoning-consistent structured outputs
-- Reduced hallucinations via schema enforcement
-- Positive IC with T+1 returns
-
 ## Tech Stack
 Python, PyTorch, Hugging Face, Unsloth, Llama-3, Financial Time-Series Analysis
 
